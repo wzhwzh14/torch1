@@ -1,4 +1,0 @@
-﻿  test.c
-D:\code cook\Project1\test.c(11,10): warning C4047: “函数”:“char *”与“char **”的间接级别不同
-D:\code cook\Project1\test.c(11,10): warning C4024: “strcpy”: 形参和实参 1 的类型不同
-  Project1.vcxproj -> D:\code cook\Project1\x64\Debug\Project1.exe
