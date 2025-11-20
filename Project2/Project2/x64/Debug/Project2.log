@@ -1,0 +1,10 @@
+﻿  源.c
+D:\code cook\Project2\源.c(10,33): warning C4013: “malloc”未定义；假设外部返回 int
+D:\code cook\Project2\源.c(10,22): warning C4312: “类型强制转换”: 从“int”转换到更大的“linknode *”
+D:\code cook\Project2\源.c(23,17): warning C4133: “=”: 从“linknode *”到“linknode *”的类型不兼容
+D:\code cook\Project2\源.c(24,11): warning C4133: “=”: 从“linknode *”到“linknode *”的类型不兼容
+D:\code cook\Project2\源.c(35,5): warning C4133: “=”: 从“linknode *”到“linklist”的类型不兼容
+D:\code cook\Project2\源.c(39,13): warning C4133: “初始化”: 从“linknode *”到“linklist”的类型不兼容
+D:\code cook\Project2\源.c(30,11): warning C4101: “temp”: 未引用的局部变量
+D:\code cook\Project2\源.c(53,11): warning C4133: “=”: 从“linknode *”到“linknode *”的类型不兼容
+  Project2.vcxproj -> D:\code cook\Project2\x64\Debug\Project2.exe

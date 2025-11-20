@@ -1,0 +1,11 @@
+﻿  test.c
+D:\code cook\Project3\test.c(5,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code cook\Project3\test.c(35,32): warning C4474: printf: 格式字符串中传递的参数太多
+      D:\code cook\Project3\test.c(35,32):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+D:\code cook\Project3\test.c(36,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\code cook\Project3\test.c(36,10):
+      此参数用作缓冲区大小
+  
+  Project3.vcxproj -> D:\code cook\Project3\x64\Debug\Project3.exe
